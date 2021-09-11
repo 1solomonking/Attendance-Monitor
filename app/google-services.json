@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947320482717",
+    "firebase_url": "https://monitor-attendance.firebaseio.com",
+    "project_id": "monitor-attendance",
+    "storage_bucket": "monitor-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947320482717:android:38e18b9ae9eab6e2af1d74",
+        "android_client_info": {
+          "package_name": "com.application.solodroid.attendancemonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947320482717-c06t19nv1subqfni79v5th59rdhndg82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTCJRAbevgSyTWH8aBrsAH77sXkgcrko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947320482717-c06t19nv1subqfni79v5th59rdhndg82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
